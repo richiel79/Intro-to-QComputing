@@ -1,2 +1,2 @@
 # Intro-to-QComputing
-PSETS for ECE396
+This repo contains code that was used for the PSETS in ECE396. 
